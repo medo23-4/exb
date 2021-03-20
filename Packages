@@ -106,3 +106,16 @@ Architecture: NeutronFile
 Section: Tweaks
 Maintainer: medo
 Depends: zip, unzip, gzip, unrar, p7zip
+
+Package: net.medo.appdatamanager
+Name: Apps Manager
+Version: 1.6.0-10
+Filename: deb /net.mymedo.appdatamanager_1.6.0-10_iphoneos-arm.deb
+Size: 3667842
+MD5sum: 98f85bb0deaa7b5ef69c6d5c05ea3e92
+SHA1: a3c450fd81eb785418a019de1e1096029c14b309
+SHA256: d9ea5de1deecbe71b0060de2f5c909428e692eb07683bf623fdee14b168fb978
+Architecture: NeutronFile
+Section: Tweaks
+Maintainer: medo
+Depends: TIGI Software
