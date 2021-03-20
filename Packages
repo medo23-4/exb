@@ -94,19 +94,6 @@ Section: Tweaks
 Maintainer: medo
 Depends: firmware (>= 10.0), mobilesubstrate, sed
 
-Package: medo.filza
-Name:Filza File Manager 
-Version: 3.8.1-30
-Filename: deb /medo.deadtweak_1.7.2_iphoneos-arm.deb
-Size: 12982218
-MD5sum: f1b79d6656ffb727ee57f830aa92375b
-SHA1: fe58fe291cab2de5f5661ee0a9f959905fd02e01
-SHA256: 0dd159ffd5dda7e6eefa46c6f6cfd505fe5188d8125d2c818a1443b05d226399
-Architecture: NeutronFile
-Section: Tweaks
-Maintainer: medo
-Depends: zip, unzip, gzip, unrar, p7zip
-
 Package: net.medo.appdatamanager
 Name: Apps Manager
 Version: 1.6.0-10
@@ -118,4 +105,4 @@ SHA256: d9ea5de1deecbe71b0060de2f5c909428e692eb07683bf623fdee14b168fb978
 Architecture: NeutronFile
 Section: Tweaks
 Maintainer: medo
-Depends: TIGI Software
+Depends: firmware (>= 7.0)
