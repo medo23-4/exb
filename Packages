@@ -16,19 +16,6 @@ Maintainer: NeutronFile
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.pn
 
-Package: medo.filza
-Name:Filza File Manager 
-Version: 3.8.1-30
-Filename: deb /net.mymedo.filza_3.8.1-30_iphoneos-arm.deb
-Size: 12982218
-MD5sum: f1b79d6656ffb727ee57f830aa92375b
-SHA1: fe58fe291cab2de5f5661ee0a9f959905fd02e01
-SHA256: 0dd159ffd5dda7e6eefa46c6f6cfd505fe5188d8125d2c818a1443b05d226399
-Architecture: NeutronFile
-Section: Tweaks
-Maintainer: medo
-Depends: zip, unzip, gzip, unrar, p7zip
-
 Package: com.neutronfile.debrepack
 Name: deb Repack
 Author: julioverne
@@ -106,3 +93,16 @@ Architecture: iphoneos-arm
 Section: Tweaks
 Maintainer: medo
 Depends: firmware (>= 10.0), mobilesubstrate, sed
+
+Package: medo.filza
+Name:Filza File Manager 
+Version: 3.8.1-30
+Filename: deb /medo.deadtweak_1.7.2_iphoneos-arm.deb
+Size: 12982218
+MD5sum: f1b79d6656ffb727ee57f830aa92375b
+SHA1: fe58fe291cab2de5f5661ee0a9f959905fd02e01
+SHA256: 0dd159ffd5dda7e6eefa46c6f6cfd505fe5188d8125d2c818a1443b05d226399
+Architecture: NeutronFile
+Section: Tweaks
+Maintainer: medo
+Depends: zip, unzip, gzip, unrar, p7zip
