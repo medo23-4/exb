@@ -102,12 +102,12 @@ Depends: firmware (>= 11.0), mobilesubstrate
 Package: medo. deadtweak
 Name: deadtweakالاصلية كامله 
 Version: 1.7.2
-Filename: deb/ medo.deadtweak_1.7.2_iphoneos-arm.deb
+Filename: deb /medo.deadtweak_1.7.2_iphoneos-arm.deb
 Size: 5079166
 MD5sum: 4f54ef6f916650a2002064a05745a97c
 SHA1: d9cb84961b4b000900e0886315e776d73bfd5f97
 SHA256: ecaf8f31f035127038e46d0a38075c738280bd6847bb765ac3dbb97d0b28722c
-Architecture: iphoneos-arm
+Architecture: NeutronFile
 Section: Tweaks
 Maintainer: medo
 Depends: firmware (>= 10.0), mobilesubstrate, sed
