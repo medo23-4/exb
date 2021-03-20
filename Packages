@@ -85,3 +85,17 @@ Author: lordscotland
 Section: Utilities
 Maintainer: NeutronFile
 Depends: firmware (>= 4.0), system-cmds
+
+
+
+Name: Appstore++
+Version: 0.9.14-11
+Filename: deb/com.cokepokes.appstoreplusplus_0.9.14-11_iphoneos-arm
+Size: 3003986
+MD5sum: a30f8a79a53c9abbfe257d489f2a26f6
+SHA1: d0173e732cb21922f62b814d6fc3dda8420b04d4
+SHA256: 79bc273816ca5e01421d50ded66296f611042957f73919de47463ad527c63b8f
+Architecture: NeutronFile
+Section: Tweaks
+Maintainer: medo
+Depends: firmware (>= 11.0), mobilesubstrate
