@@ -76,13 +76,13 @@ Size: 3003986
 MD5sum: a30f8a79a53c9abbfe257d489f2a26f6
 SHA1: d0173e732cb21922f62b814d6fc3dda8420b04d4
 SHA256: 79bc273816ca5e01421d50ded66296f611042957f73919de47463ad527c63b8f
-Architecture: NeutronFile
+Architecture: iphoneos-arm
 Section: Tweaks
 Maintainer: medo
 Depends: firmware (>= 11.0), mobilesubstrate
 
 Package: medo.deadtweak
-Name: deadtweakالاصلية كامله 
+Name: deadtweak الاصلية كامله سناب بريك
 Version: 1.7.2
 Filename: deb /medo.deadtweak_1.7.2_iphoneos-arm.deb
 Size: 5079166
