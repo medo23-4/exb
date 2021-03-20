@@ -16,23 +16,18 @@ Maintainer: NeutronFile
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.pn
 
-Package: com.neutronfile.filza
-Name: Filza File Manager (32bits)
-Version: 3.6.1-1
-Filename: debfiles//com.neutronfile.filza_3.6.1-1_iphoneos-arm.deb
-Size: 12461376
-MD5sum: 7eb7c06614398b72460118cadea12ece
-SHA1: be52354e0975dcf5f657ab954b4333c463caf79d
-SHA256: 77a5a93f540c4274021d5ae5fa475987a97bcb8abd02f3bcb530315667eb9717
-SHA512: dd9b531227f838e1edd2461f1417f8ca3f48d8598e33a0859a58da6b83eb9cb280a5d3464896846d560ddb7744d3afcdc3d2356eeb4258087ee332ea63339fac
-Architecture: iphoneos-arm
-Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
-Depiction: https://elhizazi1.github.io/NF.io/depic/filza.html
-Author: TIGI Software
+Package: medo.filza
+Name:Filza File Manager 
+Version: 3.8.1-30
+Filename: deb /net.mymedo.filza_3.8.1-30_iphoneos-arm.deb
+Size: 12982218
+MD5sum: f1b79d6656ffb727ee57f830aa92375b
+SHA1: fe58fe291cab2de5f5661ee0a9f959905fd02e01
+SHA256: 0dd159ffd5dda7e6eefa46c6f6cfd505fe5188d8125d2c818a1443b05d226399
+Architecture: NeutronFile
 Section: Tweaks
-Maintainer: Neutronfile
+Maintainer: medo
 Depends: zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza64bit
 
 Package: com.neutronfile.debrepack
 Name: deb Repack
