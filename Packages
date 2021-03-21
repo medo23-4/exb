@@ -119,3 +119,16 @@ Architecture: NeutronFile
 Section: Tweaks
 Maintainer: medo
 Depends: zip, unzip, gzip, unrar, p7zip
+
+Package: net.mymedo.antiprofilesrevoke
+Name: AntiProfilesRevoke
+Version: 1.1-1
+Filename: deb /net.mymedo.filza_3.8.1-30_iphoneos-arm.deb
+Size: 12982218
+MD5sum: bcd3a454c03bcc73518d5240f0a5dcd4
+SHA1: 8ad58c22acddc2dcf0b30ccc3225eb58861d386f
+SHA256: 3ac548b24229fa9f2c9aee9bec36db2c924b7e6588e1135b0c1c8c95ba116e79
+Architecture: NeutronFile
+Section: Tweaks
+Maintainer: medo
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
