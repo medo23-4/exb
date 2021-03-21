@@ -173,3 +173,16 @@ Architecture: iphoneos-arm
 Section: Tweaks
 Maintainer: medo
 Depends: firmware (>= 7),applist,unzip
+
+Package: medo.newterm2
+Name: NewTerm 2
+Version: 2.5
+Filename: deb /medo.newterm2_2.5_iphoneos-arm.deb
+Size: 2017856
+MD5sum: 65e7c931187e00bccf555437f154621d
+SHA1: c9d999664d06ac2ffeea7ac047714a48b60a7cdd
+SHA256: 24e372c9cdd6182da1ad25d73f2dd2623a2d617c98554d775b76a5dd1b8a4ade
+Architecture: iphoneos-arm
+Section: Tweaks
+Maintainer: medo
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-
