@@ -145,3 +145,18 @@ Architecture: iphoneos-arm
 Section: Tweaks
 Maintainer: medo
 Depends: firmware (>= 9.0)
+
+Package: medo.almohannadfontios8
+Name: Mohannad Font iOS8
+Version: 1.4-1
+Filename: deb /medo.almohannadfontios8_1.4-1_iphoneos-arm.deb
+Size: 5251754
+MD5sum: 87414028b7c42350d05cd6358c1e6064
+SHA1: 9a72a5300beee78c7d1fbee2ec48a89f82bdf873
+SHA256: c246dfe58a4d67ce6c78c0ffceb39b95494b8b29410477af070afda894a20310
+Architecture: iphoneos-arm
+Section: خطوط
+Maintainer: medo
+Depends: medo
+‏Section: Fonts (BytaFont 2)
+‏Priority: extra
