@@ -160,3 +160,16 @@ Maintainer: medo
 Depends: medo
 ‏Section: Fonts (BytaFont 2)
 ‏Priority: extra
+
+Package: medo.bytafont2
+Name: BytaFont 2
+Version: 2.6.4
+Filename: deb /medo.bytafont2_2.6.4_iphoneos-arm.deb
+Size: 1694466
+MD5sum: e29292bc1d77b434799e96e5bbe35df0
+SHA1: 1b178cf829bb6d164bcb620841f0d923f5f8fec6
+SHA256: 1b57b956dae9408f04d062353f305aee26e04d05352910c0df879e9bf5296dc8
+Architecture: iphoneos-arm
+Section: خطوط
+Maintainer: medo
+Depends: firmware (>= 7),applist,unzip
