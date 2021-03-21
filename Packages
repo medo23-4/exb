@@ -132,3 +132,16 @@ Architecture: NeutronFile
 Section: Tweaks
 Maintainer: medo
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+
+Package: jp.soh.reprovision
+Name: ReProvision Reborn
+Version: 0.6.1~release
+Filename: deb /jp.soh.reprovision_0.6.1~release_iphoneos-arm.deb
+Size: 14666572
+MD5sum: 04fcba9dbc28533e6ef63655f72bd88f
+SHA1: 7448c4c13f7dc447cb930d45c0407e623cadc931
+SHA256: 6e6e1660f58dea70ecac157b606706ad9950629bf83623b1a3afeedcbd939dee
+Architecture: iphoneos-arm
+Section: Tweaks
+Maintainer: medo
+Depends: firmware (>= 9.0)
