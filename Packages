@@ -106,3 +106,16 @@ Architecture: NeutronFile
 Section: Tweaks
 Maintainer: medo
 Depends: firmware (>= 7.0)
+
+Package: net.medo.filza
+Name: Filza File Manager 
+Version: 1.6.0-10
+Filename: deb /net.mymedo.filza_3.8.1-30_iphoneos-arm.deb
+Size: 12982218
+MD5sum: f1b79d6656ffb727ee57f830aa92375b
+SHA1: fe58fe291cab2de5f5661ee0a9f959905fd02e01
+SHA256: 0dd159ffd5dda7e6eefa46c6f6cfd505fe5188d8125d2c818a1443b05d226399
+Architecture: NeutronFile
+Section: Tweaks
+Maintainer: medo
+Depends: zip, unzip, gzip, unrar, p7zip
