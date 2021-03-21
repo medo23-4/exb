@@ -123,7 +123,7 @@ Depends: zip, unzip, gzip, unrar, p7zip
 Package: net.mymedo.antiprofilesrevoke
 Name: AntiProfilesRevoke
 Version: 1.1-1
-Filename: deb /net.mymedo.filza_3.8.1-30_iphoneos-arm.deb
+Filename: deb /net.mymedo.antiprofilesrevoke_1.1-1_iphoneos-arm.deb
 Size: 12982218
 MD5sum: bcd3a454c03bcc73518d5240f0a5dcd4
 SHA1: 8ad58c22acddc2dcf0b30ccc3225eb58861d386f
