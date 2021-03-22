@@ -68,10 +68,10 @@ Section: Utilities
 Maintainer: NeutronFile
 Depends: firmware (>= 4.0), system-cmds
 
-Package: com.cokepokes.appstoreplusplus
+Package: com.medo.appstoreplusplus
 Name: Appstore++
 Version: 0.9.14-11
-Filename: deb/com.cokepokes.appstoreplusplus_0.9.14-11_iphoneos-arm
+Filename: deb /com.medo.appstoreplusplus_0.9.14-11_iphoneos-arm.deb
 Size: 3003986
 MD5sum: a30f8a79a53c9abbfe257d489f2a26f6
 SHA1: d0173e732cb21922f62b814d6fc3dda8420b04d4
@@ -80,6 +80,7 @@ Architecture: iphoneos-arm
 Section: Tweaks
 Maintainer: medo
 Depends: firmware (>= 11.0), mobilesubstrate
+‏Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 
 
 Package: medo.deadtweak
 Name: deadtweak الاصلية كامله سناب بريك
