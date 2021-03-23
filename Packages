@@ -116,10 +116,10 @@ Size: 12982218
 MD5sum: f1b79d6656ffb727ee57f830aa92375b
 SHA1: fe58fe291cab2de5f5661ee0a9f959905fd02e01
 SHA256: 0dd159ffd5dda7e6eefa46c6f6cfd505fe5188d8125d2c818a1443b05d226399
-Architecture: NeutronFile
+Architecture: iphoneos-arm
 Section: Tweaks
 Maintainer: medo
-Depends: zip, unzip, gzip, unrar, p7zip
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
 
 Package: net.mymedo.antiprofilesrevoke
 Name: AntiProfilesRevoke
@@ -129,7 +129,7 @@ Size: 12982218
 MD5sum: bcd3a454c03bcc73518d5240f0a5dcd4
 SHA1: 8ad58c22acddc2dcf0b30ccc3225eb58861d386f
 SHA256: 3ac548b24229fa9f2c9aee9bec36db2c924b7e6588e1135b0c1c8c95ba116e79
-Architecture: NeutronFile
+Architecture: iphoneos-arm
 Section: Tweaks
 Maintainer: medo
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
