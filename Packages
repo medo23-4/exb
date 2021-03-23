@@ -108,19 +108,6 @@ Section: Tweaks
 Maintainer: medo
 Depends: firmware (>= 7.0)
 
-Package: net.medo.filza
-Name: Filza File Manager 
-Version: 3.8.1-30
-Filename: deb /net.mymedo.filza_3.8.1-30_iphoneos-arm.deb
-Size: 12982218
-MD5sum: f1b79d6656ffb727ee57f830aa92375b
-SHA1: fe58fe291cab2de5f5661ee0a9f959905fd02e01
-SHA256: 0dd159ffd5dda7e6eefa46c6f6cfd505fe5188d8125d2c818a1443b05d226399
-Architecture: iphoneos-arm
-Section: Tweaks
-Maintainer: medo
-Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
-
 Package: net.mymedo.antiprofilesrevoke
 Name: AntiProfilesRevoke
 Version: 1.1-1
@@ -187,3 +174,19 @@ Architecture: iphoneos-arm
 Section: Tweaks
 Maintainer: medo
 Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-
+
+Package: com.tigisoftware.filza64bit
+Name: Filza File Manager 64-bit
+Version: 3.8.2-4
+Filename: deb / com.tigisoftware.filza64bit_3.8.2-4_iphoneos-arm.deb
+Size: 8387434
+MD5sum: eb947177c58647ec420a31af4610a64c
+SHA1: 05dd43c936b8f4994f051ec6c16452ac175b09db
+SHA256: af35a2784770b72c8b85734254ab050ba866ebbabe17b0c5ae31082739104d43
+Architecture: iphoneos-arm
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This 
+Depiction: https://medo23-4.github.io/exb/
+‏Author: TIGI Software
+‏Section: Utilities
+‏Maintainer: NeutronFile
+‏Depends: zip, unzip, gzip, unrar, p7zip
